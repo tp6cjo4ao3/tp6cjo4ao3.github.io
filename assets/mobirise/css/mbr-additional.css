@@ -2393,41 +2393,6 @@ body {
 .cid-rfdJxANw4U .dropdown-item:hover {
   color: #b2ccd2 !important;
 }
-.cid-rfdJxBGcL6 {
-  background-image: url("../../../assets/images/img-e1914-5-1108x1478.jpg");
-}
-.cid-rfdJxBGcL6 .mbr-text,
-.cid-rfdJxBGcL6 .mbr-section-btn {
-  text-align: left;
-  color: #ebeaf2;
-}
-.cid-rfdJxBGcL6 I {
-  color: #e1fb03;
-}
-.cid-rfdJxBGcL6 H1 {
-  text-align: left;
-}
-.cid-rfdJxCOXkC {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-rfdJxCOXkC .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rfdJxCOXkC .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rfdJxCOXkC .mbr-figure img {
-    width: 100% !important;
-  }
-}
 .cid-rfdJxDSFer {
   padding-top: 120px;
   padding-bottom: 90px;
@@ -2521,57 +2486,6 @@ body {
 .cid-rfdJxG0Mnt .mbr-section-btn {
   color: #ff3366;
   text-align: center;
-}
-.cid-rfdJxGYH60 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/img-3804-1108x1478.jpg");
-}
-.cid-rfdJxGYH60 .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rfdJxGYH60 .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rfdJxGYH60 .mbr-figure img {
-    width: 100% !important;
-  }
-}
-.cid-rfdJxGYH60 H1 {
-  color: #ff3366;
-}
-.cid-rfdJxGYH60 .mbr-text,
-.cid-rfdJxGYH60 .mbr-section-btn B {
-  color: #e1fb03;
-}
-@media (min-width: 992px) {
-  .cid-rfdJxHYlWJ .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rfdJxHYlWJ .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rfdJxHYlWJ .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rfdJxHYlWJ .mbr-text,
-.cid-rfdJxHYlWJ .mbr-section-btn {
-  color: #f9f295;
-}
-.cid-rfdJxHYlWJ .mbr-text,
-.cid-rfdJxHYlWJ .mbr-section-btn B {
-  color: #ffffff;
 }
 .cid-rfdJxJ2MLs {
   padding-top: 30px;
